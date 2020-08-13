@@ -164,7 +164,7 @@ $base64 = 'data:image/' . $type . ';base64,' . base64_encode($data);
                                         </div>
 
                                         <center>
-                                            <h1><?php echo $dataHd['hasil'] ?></h1>
+                                            <h1>Penyakit <?php echo $dataHd['hasil'] ?></h1>
 
                                         </center>
                                         <div class="kt-widget__bottom">
