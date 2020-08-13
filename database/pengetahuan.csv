@@ -1,0 +1,30 @@
+1,Apakah anda merasa Gatal dan pembengkakan atau peradangan saat disetuh,2,22,G1,0
+2,Apakah anda merasa  gatal dan menonjol pada kulit ,3,22,G2,0
+3,Apakah mengalami Kulit memerah pada permukaan kulit,23,22,G3,0
+4,Apakah anda mengalami Kulit kering dan gatal menebal secara kronis,5,22,G4,0
+5,Apakah anda Alergi,6,22,G5,0
+6,Apakah anda mengealami kulit merah-merah dan bersisik,24,22,G6,0
+7,Apakah merasarasa gatal yang parah di kulit,8,22,G7,0
+8,"Apakah anda mengalami bercak merah, kasar, pecah atau bersisik",9,22,G8,0
+9,Apakah andah mengalami Ruam yang berkerak dan berair jika tergores,25,22,G9,0
+10,"Apakah anda Seringmerasahaus, Luka yang lama sembuh, Lemasdanmerasalelah,",11,22,G10,0
+11,"Apakah merasa beratbadanturuntanpasebab yang jelas, Pandangan yang kabur, dan Frekuensibuang air kecilmeningkat, terutamapadamalamhari.",26,22,G11,0
+12,Apakah anda mengalami benjolan kecil yang diujungnya terdapat nanah,13,22,G12,0
+13,Apakah anda benjolan keras yang berbentuk pada permukaan kulit dan kadang terasa menyakitkan,27,22,G13,0
+14,"Apakah anda mengalami bercak merah yang terasa gatal menyerupai luka, tidak menimbulkan nyeri tapi gatal",15,22,G14,0
+15,Apakah anda mengalami bercak yang dapat menyebar dengan cepat jika disentuh atau digaruk,16,22,G15,0
+16,Apakah anda mengalami terbentuk koreng berwarna kuning kecoklatan di sekitar luka,28,22,G16,0
+17,Apakah anda merasa sakit dada dan luka pada mulut,19,22,G17,0
+18,"Apakah anda  merasa nyeri sendi, cepat lelah, sakit kepala dan rambut rontok",20,22,G18,0
+19,Apakah anda merasa kehilangan memori dan penipisan rambut,29,22,G19,0
+20,Apakah anda mengala[mi kulit berwarna gelap atau coklat kemerahan yang menyerupai daging,21,22,G20,0
+21,Apakah mengalami benjolan lunak dan mengkilat di permukaan kulit,30,22,G21,0
+22,Data Tidak Ditemukan,0,0,G22,0
+23,Hives,0,0,G3,R1
+24,Eksim,0,0,G6,R2
+25,Dermatitis,0,0,G9,R3
+26,Penyakit Gula,0,0,G11,R4
+27,Jerawat,0,0,G13,R5
+28,Impetigo,0,0,G16,R6
+29,Lupus,0,0,G19,R7
+30,Kanker Kulit,0,0,G21,R8

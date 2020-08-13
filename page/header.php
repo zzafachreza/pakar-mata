@@ -71,7 +71,7 @@
 													<li id="master_gangguan" data-menu="MASTER DATA" class="kt-menu__item" aria-haspopup="true"><a class="kt-menu__link "><span class="kt-menu__link-icon">
 														<i class="fa fa-dice-d20"></i>
 													
-														</span><span class="kt-menu__link-text">Gangguan</span></a>
+														</span><span class="kt-menu__link-text">Gejala</span></a>
 
 													</li>
 
@@ -79,7 +79,7 @@
 													<li id="master_solusi" data-menu="MASTER DATA" class="kt-menu__item" aria-haspopup="true"><a class="kt-menu__link "><span class="kt-menu__link-icon">
 														<i class="fa fa-hand-holding-heart"></i>
 													
-														</span><span class="kt-menu__link-text">Solusi</span></a>
+														</span><span class="kt-menu__link-text">Penyakit</span></a>
 
 													</li>
 											
@@ -90,11 +90,11 @@
 
 									<li class="konsultasi kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-text">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
-										    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-										        <rect x="0" y="0" width="24" height="24"/>
-										        <path d="M6.54246133,21.5014597 L8.1406184,15.5370564 C8.28356021,15.0035903 8.83189716,14.6870078 9.36536327,14.8299496 C9.89882937,14.9728914 10.2154119,15.5212284 10.07247,16.0546945 L8.47431299,22.0190978 C8.33137118,22.5525639 7.78303422,22.8691464 7.24956812,22.7262046 C6.71610201,22.5832628 6.39951952,22.0349258 6.54246133,21.5014597 Z M17.4495897,21.4711096 C17.5925315,22.0045757 17.275949,22.5529126 16.7424829,22.6958545 C16.2090168,22.8387963 15.6606799,22.5222138 15.517738,21.9887477 L14.2148496,17.126302 C14.0719078,16.5928359 14.3884903,16.0444989 14.9219564,15.9015571 C15.4554225,15.7586153 16.0037595,16.0751978 16.1467013,16.6086639 L17.4495897,21.4711096 Z" fill="#000000" opacity="0.3"/>
-										        <path d="M7.36092084,1 L16.6390792,1 C17.7436487,1 18.6390792,1.8954305 18.6390792,3 C18.6390792,3.11016172 18.6299775,3.22013512 18.611867,3.32879797 L17.0696334,12.5821995 C17.0294511,12.8232935 16.820856,13 16.5764365,13 L7.42356354,13 C7.17914397,13 6.97054891,12.8232935 6.93036658,12.5821995 L5.388133,3.32879797 C5.20654289,2.23925733 5.94258223,1.20880226 7.03212287,1.02721215 C7.14078572,1.00910168 7.25075912,1 7.36092084,1 Z M5.5,14 L18.5,14 C19.3284271,14 20,14.6715729 20,15.5 C20,16.3284271 19.3284271,17 18.5,17 L5.5,17 C4.67157288,17 4,16.3284271 4,15.5 C4,14.6715729 4.67157288,14 5.5,14 Z" fill="#000000"/>
-										    </g>
+											<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+													<rect x="0" y="0" width="24" height="24"/>
+													<path d="M3,4 L20,4 C20.5522847,4 21,4.44771525 21,5 L21,7 C21,7.55228475 20.5522847,8 20,8 L3,8 C2.44771525,8 2,7.55228475 2,7 L2,5 C2,4.44771525 2.44771525,4 3,4 Z M3,10 L13,10 C13.5522847,10 14,10.4477153 14,11 L14,13 C14,13.5522847 13.5522847,14 13,14 L3,14 C2.44771525,14 2,13.5522847 2,13 L2,11 C2,10.4477153 2.44771525,10 3,10 Z M3,16 L13,16 C13.5522847,16 14,16.4477153 14,17 L14,19 C14,19.5522847 13.5522847,20 13,20 L3,20 C2.44771525,20 2,19.5522847 2,19 L2,17 C2,16.4477153 2.44771525,16 3,16 Z" fill="#000000"/>
+													<rect fill="#000000" opacity="0.3" x="16" y="10" width="5" height="10" rx="1"/>
+												</g>
 										</svg>
 									Konsultasi</span></a>
 
@@ -119,7 +119,7 @@
 
 											 </li>	
 
-											 	<li class="artikel kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-text">
+											 	<!-- <li class="artikel kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-text">
 												<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
 													    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 													        <rect x="0" y="0" width="24" height="24"/>
@@ -132,7 +132,7 @@
 									Artikel</span></a>
 
 											 </li>	
-
+-->
 											 	<li class="saran kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-text">
 												
 
@@ -144,9 +144,9 @@
 												    </g>
 												</svg>
 
-													Saran</span></a>
+													Kontak</span></a>
 
-											 </li>	
+											 </li>	 
 								
 
 								</ul>
