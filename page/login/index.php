@@ -67,18 +67,13 @@ License: You must have a valid license purchased only from themeforest(the above
                     <div class="kt-login__container">
                         <div class="kt-login__logo">
                             <a>
-                                <img src="assets/media/logo/pakar.png" width="80">
+                                <img src="assets/media/doctor.png" width="120">
                             </a>
                         </div>
                         <div class="kt-login__signin">
                             <div class="kt-login__head">
-                                <h3 class="kt-login__title">Silahkan login untuk masuk</h3>
-                                <!-- teset -->
-
-
-
-                                <!-- test -->
-                            </div>
+                                <h4 class="kt-login__title">Sistem Pakar Untuk Mengetahui Penyakit Kuklit Pada Wajah</h4>
+                             </div>
                             <form id="form_login" class="kt-form">
 
 
