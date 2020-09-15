@@ -29,7 +29,7 @@ License: You must have a valid license purchased only from themeforest(the above
 	<head>
 		<base href="">
 		<meta charset="utf-8" />
-		<title>Sistem Pakar Penyakit Kulit</title>
+		<title>Sistem Pakar Penyakit Mata</title>
 		<meta name="description" content="No aside layout examples">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -58,7 +58,7 @@ License: You must have a valid license purchased only from themeforest(the above
 		<link href="assets/css/skins/aside/dark.css" rel="stylesheet" type="text/css" />
 
 		<!--end::Layout Skins -->
-		<link rel="shortcut icon" href="assets/media/logo/pakar.png" />
+		<link rel="shortcut icon" href="assets/media/logo/icon.png" />
 	</head>
 
 	<!-- end::Head -->
@@ -72,7 +72,7 @@ License: You must have a valid license purchased only from themeforest(the above
 		<div id="kt_header_mobile" class="hilang kt-header-mobile  kt-header-mobile--fixed ">
 			<div class="kt-header-mobile__logo">
 				<a href="./">
-					<img alt="Logo" src="assets/media/logo/pakar.png" width="50" height="50" />
+					<img alt="Logo" src="assets/media/logo/kt-svg-icon.png" width="50" height="50" />
 				</a>
 			</div>
 			<div class="kt-header-mobile__toolbar">
@@ -87,7 +87,7 @@ License: You must have a valid license purchased only from themeforest(the above
 				<div class="kt-grid__item kt-grid__item--fluid kt-grid kt-grid--hor kt-wrapper" id="kt_wrapper">
 
 					<!-- begin:: Header -->
-					<div id="kt_header" class="hilang kt-header kt-grid__item  kt-header--fixed" style="background-image:url('assets/media/bg/bg-9.jpg')">
+					<div id="kt_header" class="hilang kt-header kt-grid__item  kt-header--fixed" style="background-image:url('assets/media/bg/bg-8.jpg')">
 						<?php include_once 'page/header.php'; ?>
 					</div>
 

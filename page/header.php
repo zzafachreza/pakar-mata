@@ -1,7 +1,12 @@
+<style type="text/css">
+	.kt-menu__link-text{
+		color: red
+	}
+</style>
 <div class="kt-header-menu-wrapper" id="kt_header_menu_wrapper">
 							<div class="kt-header-logo">
 								<a class="home" href="./">
-									<img alt="Logo" src="assets/media/logo/pakar.png" width="50" height="50" />
+									<img alt="Logo" src="assets/media/logo/icon.png" width="50" height="50" />
 								</a>
 							</div>
 
@@ -272,7 +277,7 @@
 									<div class="dropdown-menu dropdown-menu-fit dropdown-menu-right dropdown-menu-anim dropdown-menu-top-unround dropdown-menu-xl">
 
 										<!--begin: Head -->
-										<div class="kt-user-card kt-user-card--skin-dark kt-notification-item-padding-x" style="background-image: url(assets/media/bg/bg-1.jpg)">
+										<div class="kt-user-card kt-user-card--skin-dark kt-notification-item-padding-x" style="background-image: url(assets/media/bg/bg-8.jpg)">
 											<div class="kt-user-card__avatar">
 												
 												<!--use below badge element instead the user avatar to display username's first letter(remove kt-hidden class to display it) -->

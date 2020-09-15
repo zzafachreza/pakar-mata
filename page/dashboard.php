@@ -8,7 +8,7 @@ include_once '../api/koneksi.php';
 ?>
 
 <div class="row"
-    style="background-image:url('assets/media/bg/bg-9.jpg');border-radius:10px;padding:1%;box-shadow:0px 0px 1px 1px #ccc">
+    style="background-image:url('assets/media/bg/bg-8.jpg');border-radius:10px;padding:1%;box-shadow:0px 0px 1px 1px #ccc">
     <div class="col-xl-12 col-sm-12 order-lg-2 order-xl-1">
         <h1>Aplikasi Sistem Pakar</h1>
         <p>Untuk Mengetahui Penyakit Pada Kulit</p>
