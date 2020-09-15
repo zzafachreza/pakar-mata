@@ -17,7 +17,7 @@
 							?>
 							<div id="kt_header_menu" class="kt-header-menu kt-header-menu-mobile  kt-header-menu--layout-default ">
 								<ul class="kt-menu__nav ">
-											<li class="home kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-text">
+											<li  class="home kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span style="color: #F6EFD3"  style="color: #F6EFD3"  class="kt-menu__link-text">
 
 												<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
 											    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -35,7 +35,7 @@
 
 					
 
-								<li id="master_data" class="kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-text">
+								<li id="master_data" class="kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span style="color: #F6EFD3"  class="kt-menu__link-text">
 
 										<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
 									    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -50,7 +50,7 @@
 
 									Master Data</span><i class="kt-menu__ver-arrow la la-angle-right"></i></a>
 										<div class="kt-menu__submenu kt-menu__submenu--classic kt-menu__submenu--left">
-											<ul class="kt-menu__subnav">
+											<ul class="kt-menu__subnav" style="background-color:  #3F3D56">
 
 
 												<li id="master_user" data-menu="MASTER DATA" class="kt-menu__item" aria-haspopup="true"><a class="kt-menu__link "><span class="kt-menu__link-icon">
@@ -61,14 +61,14 @@
 													        <path d="M3.00065168,20.1992055 C3.38825852,15.4265159 7.26191235,13 11.9833413,13 C16.7712164,13 20.7048837,15.2931929 20.9979143,20.2 C21.0095879,20.3954741 20.9979143,21 20.2466999,21 C16.541124,21 11.0347247,21 3.72750223,21 C3.47671215,21 2.97953825,20.45918 3.00065168,20.1992055 Z" fill="#000000" fill-rule="nonzero"/>
 													    </g>
 													</svg>
-														</span><span class="kt-menu__link-text">User Manager</span></a>
+														</span><span style="color: #F6EFD3"  class="kt-menu__link-text">User Manager</span></a>
 
 													</li>
 
 													<li id="master_pengetahuan" data-menu="MASTER DATA" class="kt-menu__item" aria-haspopup="true"><a class="kt-menu__link "><span class="kt-menu__link-icon">
 														<i class="fa fa-question-circle"></i>
 													
-														</span><span class="kt-menu__link-text">Pengetahuan</span></a>
+														</span><span style="color: #F6EFD3"  class="kt-menu__link-text">Pengetahuan</span></a>
 
 													</li>
 
@@ -76,7 +76,7 @@
 													<li id="master_gangguan" data-menu="MASTER DATA" class="kt-menu__item" aria-haspopup="true"><a class="kt-menu__link "><span class="kt-menu__link-icon">
 														<i class="fa fa-dice-d20"></i>
 													
-														</span><span class="kt-menu__link-text">Gejala</span></a>
+														</span><span style="color: #F6EFD3"  class="kt-menu__link-text">Gejala</span></a>
 
 													</li>
 
@@ -84,7 +84,7 @@
 													<li id="master_solusi" data-menu="MASTER DATA" class="kt-menu__item" aria-haspopup="true"><a class="kt-menu__link "><span class="kt-menu__link-icon">
 														<i class="fa fa-hand-holding-heart"></i>
 													
-														</span><span class="kt-menu__link-text">Penyakit</span></a>
+														</span><span style="color: #F6EFD3"  class="kt-menu__link-text">Penyakit</span></a>
 
 													</li>
 											
@@ -93,7 +93,7 @@
 									</li>
 
 
-									<li class="konsultasi kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-text">
+									<li class="konsultasi kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span style="color: #F6EFD3"  class="kt-menu__link-text">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
 											<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 													<rect x="0" y="0" width="24" height="24"/>
@@ -105,7 +105,7 @@
 
 											 </li>	
 
-											 	<li class="hasil kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-text">
+											 	<li class="hasil kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span style="color: #F6EFD3"  class="kt-menu__link-text">
 										<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
 									    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 									        <rect x="0" y="0" width="24" height="24"/>
@@ -124,7 +124,7 @@
 
 											 </li>	
 
-											 	<!-- <li class="artikel kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-text">
+											 	<!-- <li class="artikel kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span style="color: #F6EFD3"  class="kt-menu__link-text">
 												<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
 													    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 													        <rect x="0" y="0" width="24" height="24"/>
@@ -138,7 +138,7 @@
 
 											 </li>	
 -->
-											 	<li class="saran kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-text">
+											 	<li class="saran kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span style="color: #F6EFD3"  class="kt-menu__link-text">
 												
 
 												<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
@@ -160,7 +160,7 @@
 
 								<div id="kt_header_menu" class="kt-header-menu kt-header-menu-mobile  kt-header-menu--layout-default ">
 								<ul class="kt-menu__nav ">
-											<li class="home kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-text">
+											<li class="home kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span style="color: #F6EFD3"  class="kt-menu__link-text">
 
 												<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
 											    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -180,7 +180,7 @@
 
 								
 
-									<li class="konsultasi kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-text">
+									<li class="konsultasi kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span style="color: #F6EFD3"  class="kt-menu__link-text">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">
 										    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
 										        <rect x="0" y="0" width="24" height="24"/>
@@ -192,7 +192,7 @@
 
 											 </li>	
 
-											 <li class="saran kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span class="kt-menu__link-text">
+											 <li class="saran kt-menu__item  kt-menu__item--submenu kt-menu__item--rel" data-ktmenu-submenu-toggle="click" aria-haspopup="true"><a href="javascript:;" class="kt-menu__link kt-menu__toggle"><span style="color: #F6EFD3"  class="kt-menu__link-text">
 												
 
 												<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1" class="kt-svg-icon">

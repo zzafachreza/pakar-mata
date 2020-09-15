@@ -87,7 +87,7 @@ License: You must have a valid license purchased only from themeforest(the above
 				<div class="kt-grid__item kt-grid__item--fluid kt-grid kt-grid--hor kt-wrapper" id="kt_wrapper">
 
 					<!-- begin:: Header -->
-					<div id="kt_header" class="hilang kt-header kt-grid__item  kt-header--fixed" style="background-image:url('assets/media/bg/bg-8.jpg')">
+					<div id="kt_header" class="hilang kt-header kt-grid__item  kt-header--fixed" style="background-color: #3F3D56">
 						<?php include_once 'page/header.php'; ?>
 					</div>
 
@@ -229,7 +229,7 @@ License: You must have a valid license purchased only from themeforest(the above
 
 				<script src="assets/js/highcharts.js"></script>
 				<script src="assets/js/exporting.js"></script>
-				
+				<script type="text/javascript" src="assets/js/jssor.slider-28.0.0.min.js"></script>
 			
 				<script src="assets/js/app.js" type="text/javascript"></script>
 				

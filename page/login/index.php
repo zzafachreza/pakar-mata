@@ -92,7 +92,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                 <div class="form-group">
 
 
-                                    <input class="form-control" type="text" placeholder="Username" id="username"
+                                    <input style="border-top-right-radius: : 0px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;background-color: #3F3D56" class="form-control" type="text" placeholder="Username" id="username"
                                         name="username" aria-invalid="true" autocomplete="off">
 
                                     <div style="display: none" id="username-error" class="error invalid-feedback">This
@@ -100,7 +100,7 @@ License: You must have a valid license purchased only from themeforest(the above
 
                                 </div>
                                 <div class="form-group">
-                                    <input class="form-control" type="password" placeholder="Password" id="password"
+                                    <input style="border-top-right-radius: : 0px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;background-color: #3F3D56" class="form-control" type="password" placeholder="Password" id="password"
                                         name="password" autocomplete="off">
 
                                     <div style="display: none" id="password-error" class="error invalid-feedback">This
@@ -109,11 +109,11 @@ License: You must have a valid license purchased only from themeforest(the above
 
 
                                 <div class="kt-login__actions">
-                                    <button style="width: 100%" id="kt_login_signin_submit"
-                                        class="requestfullscreen btn btn-pill kt-login__btn-primary">LOGIN
+                                    <button id="kt_login_signin_submit"
+                                        class="requestfullscreen btn btn-pill kt-login__btn-primary" style="width:100%;background-color: #575A88;border-radius: 0px;">LOGIN
                                     </button><br />
-                                    <button style="width: 100%" id="kt_login_signup"
-                                        class="btn btn-pill kt-login__btn-secondary">DAFTAR</button>
+                                    <button id="kt_login_signup"
+                                        class="btn btn-pill kt-login__btn-secondary" style="width:100%;background-color: #575A88;border-radius: 0px;">DAFTAR</button>
                                 </div>
                             </form>
                         </div>
@@ -124,33 +124,33 @@ License: You must have a valid license purchased only from themeforest(the above
                             </div>
                             <form class="kt-login__form kt-form" action="">
                                 <div class="input-group">
-                                    <input class="form-control" type="text" placeholder="username" name="username">
+                                    <input style="border-top-right-radius: : 0px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;background-color: #3F3D56" class="form-control" type="text" placeholder="username" name="username">
                                 </div>
                                 <div class="input-group">
-                                    <input class="form-control" type="text" placeholder="nama lengkap Anda"
+                                    <input style="border-top-right-radius: : 0px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;background-color: #3F3D56" class="form-control" type="text" placeholder="nama lengkap Anda"
                                         name="nama_lengkap" autocomplete="off">
                                 </div>
                                 <div class="input-group">
-                                    <select name="jenis_kelamin" class="form-control">
+                                    <select style="border-top-right-radius: : 0px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;background-color: #3F3D56" name="jenis_kelamin" class="form-control">
                                         <option>Laki-laki</option>
                                         <option>Perempuan</option>
                                     </select>
                                 </div>
 
                                 <div class="input-group">
-                                    <input class="tanggal form-control" type="text" placeholder="tanggal lahir"
+                                    <input style="border-top-right-radius: : 0px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;background-color: #3F3D56" class="tanggal form-control" type="text" placeholder="tanggal lahir"
                                         name="tanggal_lahir" autocomplete="off">
                                 </div>
                                 <div class="input-group">
-                                    <input class="form-control" type="text" placeholder="Email" name="email"
+                                    <input style="border-top-right-radius: : 0px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;background-color: #3F3D56" class="form-control" type="text" placeholder="Email" name="email"
                                         autocomplete="off">
                                 </div>
                                 <div class="input-group">
-                                    <input class="form-control" type="password" placeholder="Password" name="password">
+                                    <input style="border-top-right-radius: : 0px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;background-color: #3F3D56" class="form-control" type="password" placeholder="Password" name="password">
                                 </div>
                                 <div class="input-group">
-                                    <input class="form-control" type="password" placeholder="Confirm Password"
-                                        name="rpassword">
+                                    <input style="border-top-right-radius: : 0px;border-top-left-radius: 0px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;background-color: #3F3D56" class="form-control" type="password" placeholder="Confirm Password"
+                                        name="password">
                                 </div>
                                 <div class="row kt-login__extra">
                                     <div class="col kt-align-left">
@@ -163,10 +163,14 @@ License: You must have a valid license purchased only from themeforest(the above
                                     </div>
                                 </div>
                                 <div class="kt-login__actions">
+
+
                                     <button id="kt_login_signup_submit"
-                                        class="btn btn-pill kt-login__btn-primary">DAFTAR</button>&nbsp;&nbsp;
+                                        class="btn btn-pill kt-login__btn-primary" style="background-color: #3F3D56;border-radius: 0px;">DAFTAR</button>&nbsp;&nbsp;
+
+
                                     <button id="kt_login_signup_cancel"
-                                        class="btn btn-pill kt-login__btn-secondary">CANCEL</button>
+                                        class="btn btn-pill kt-login__btn-secondary" style="background-color: #3F3D56;border-radius: 0px;">CANCEL</button>
                                 </div>
                             </form>
                         </div>
@@ -251,37 +255,37 @@ License: You must have a valid license purchased only from themeforest(the above
 </html>
 
 <script>
-document.onkeydown = function(e) {
-    if (event.keyCode == 123) {
-        return false;
-    }
-    if (e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) {
-        return false;
-    }
-    if (e.ctrlKey && e.shiftKey && e.keyCode == 'C'.charCodeAt(0)) {
-        return false;
-    }
-    if (e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) {
-        return false;
-    }
-    if (e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) {
-        return false;
-    }
-}
+// document.onkeydown = function(e) {
+//     if (event.keyCode == 123) {
+//         return false;
+//     }
+//     if (e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) {
+//         return false;
+//     }
+//     if (e.ctrlKey && e.shiftKey && e.keyCode == 'C'.charCodeAt(0)) {
+//         return false;
+//     }
+//     if (e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) {
+//         return false;
+//     }
+//     if (e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) {
+//         return false;
+//     }
+// }
 
 
-$("body").on("contextmenu", function() {
+// $("body").on("contextmenu", function() {
 
 
-    Not("Terimakasih untuk tidak click kanan", "brand", "terminal");
-    return false;
-});
+//     Not("Terimakasih untuk tidak click kanan", "brand", "terminal");
+//     return false;
+// });
 
-$('body').on("cut copy", function() {
-    Not("Terimakasih untuk tidak dicopy", "warning", "stack-overflow");
-    return false;
+// $('body').on("cut copy", function() {
+//     Not("Terimakasih untuk tidak dicopy", "warning", "stack-overflow");
+//     return false;
 
-});
+// });
 
 
 

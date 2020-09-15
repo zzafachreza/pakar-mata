@@ -6,7 +6,7 @@ include_once 'phpqrcode/qrlib.php';
 
 date_default_timezone_set("Asia/Jakarta");
 $host="localhost";
-$db="pakar_kulit";
+$db="pakar_mata";
 $user="root";
 $pass="";
 
