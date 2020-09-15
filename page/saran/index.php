@@ -32,11 +32,11 @@
 
 											<div class="kt-portlet__head-actions">
 
-													<button type="button" id="btnPilihAll"  class="btn btn-danger btn-icon-sm" >
+													<!-- <button type="button" id="btnPilihAll"  class="btn btn-danger btn-icon-sm" >
 
 														<i class="la la-trash"></i> Delete
 
-													</button>
+													</button> -->
 
 												
 
@@ -51,10 +51,18 @@
 								<div class="kt-portlet__body">
 
 
+								<ul class="list-group list-group-flush">
+  <li class="list-group-item">Cras justo odio</li>
+  <li class="list-group-item">Dapibus ac facilisis in</li>
+  <li class="list-group-item">Morbi leo risus</li>
+  <li class="list-group-item">Porta ac consectetur ac</li>
+  <li class="list-group-item">Vestibulum at eros</li>
+</ul>
+
 
 									<!--begin: Datatable -->
 
-									<table class="table table-striped- table-bordered table-hover table-checkable" id="tableData">
+									<!-- <table class="table table-striped- table-bordered table-hover table-checkable" id="tableData">
 
 											   <thead>
 
@@ -82,7 +90,7 @@
 
 										        </thead>
 
-									</table>
+									</table> -->
 
 
 
