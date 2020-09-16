@@ -1,9 +1,17 @@
-0,Kepribadian Tidak Ditemukan,Jawablah pertanyaan diatas sesuai dengan apa yang dialami anak anda,Tidak Ada Solusi
-R1,Hives,"sifat sosiabilitas, bersahabat, menikmati kegembiraan, aktif, suka bicara, impulsif, menyenangkan, spontan, ramah.","Anda harus selalu menjadi pendengar yang baik untuknya, harus lebih memperhatikan dengan siapa saja anak dekat, jangan terlalu diberi kebebasan anak dekat dengan orang yang baru dikenalnya."
-R2,Eksim,"Pemalu, suka menyendiri, mempunyai kontrol diri yang baik.","Anda harus lebih memperhatikannya, sering diajak berbincang-bincang dengan anda, ajaklah anak anda melakukan aktifitas bersama-sama denga anda, berikan penjelasan padanya bahwa kita hidup didunia ini saling membutuhkan satu-sama lainnya."
-R3,Dermatitis,"Pencemas, tegang, pucat dan gugup","Buat anak terbiasa tampil didepan sering-sering melatih anak dirumah agar dia tidak gugup tampil didepan keramaian, jangan sering-sering memarahi anak ini karna hal tersebut akan merusak mental anak, belailah mereka dengan penuh kasih sayang dan perhatian."
-R4,Penyakit Gula,"Pemikiran tempramen cepat marah, mudah tersinggung, tidak sabar.","Akauilah abahwa anak anda memiliki bakat seorang pemimpin dan slalu berikan semangat, anda harus sering melakukan komunikasi dua arah dengannya."
-R5,Jerawat,"Tempramen, pemurung, pesimis, mudah sedih, mudah puutus asa.","Jangan sering memarahinya karna ia sangat perasa dan mudah sakit hati, terus berikan ia semangat dalam hal apapun, dan seringlah meberikan bantuan padanya, pujilah ia dengan tulus dan penuh kasih sayang, pahamilah sifatnya yang suka dengan kesunyian jangan terlalu memaksakan kehendak kita."
-R6,Impetigo,"Lamban, pasif, malas dan kadang apatis atau masa bodoh.","Berikan motivasi secara langsung padanya, bantulah anak anda dalam menetapkan tujuannya dan berikan imbalan kepadanya agar ia lebih bersemangat, anda harus lebih memaksanya dalam membuat keputusan, jangan pernah menumpuk semua kesalahan kepadanya, dan doronglah ia untuk menerima tanggung jawab."
-R7,Lupus,"Periang, aktif, dinamis dan cekatan.","Kenali kesulitannya dalam menyelesaikan tugas , pahamilah bahwa ia berbicara tanpa berfikir terlebih dahulu, bantulah ia agar tidak menerima lebih dari yang biasa ia lakaukan, jangan memaksakan ia untuk mengingat janji tepat pada waktunya, pujilah ia untuk segala sesuatu yang mereka capai, belikan ia hadiah karan ia menyukai mainan baru."
-R8,Kanker Kulit,"Periang, aktif, dinamis dan cekatan.","Kenali kesulitannya dalam menyelesaikan tugas , pahamilah bahwa ia berbicara tanpa berfikir terlebih dahulu, bantulah ia agar tidak menerima lebih dari yang biasa ia lakaukan, jangan memaksakan ia untuk mengingat janji tepat pada waktunya, pujilah ia untuk segala sesuatu yang mereka capai, belikan ia hadiah karan ia menyukai mainan baru."
+ID Penyakit,Nama Penyakit,,
+R1,Xerophtalmania,,
+R2,Selulitis Orbitalitas,,
+R3,Glaukoma,,
+R4,Dakriosistitis,,
+R5,Katarak,,
+R6,Konjungtivitis,,
+R7,Retinitis Pigmentosa,,
+R8,Trakoma,,
+R9,Oveitis,,
+R10,Hordeolum,,
+R11,Degenerasi Makula,,
+R12,Ablasio Retina,,
+R13,Pterygium,,
+R14,Miopi,,
+R15,Oftalmia Neonatorium,,
+0,Penyakit Tidak Ditemukan,,
