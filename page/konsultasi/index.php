@@ -16,12 +16,13 @@ if ($_SESSION['level']=='Admin') {
 	$sql = "SELECT * FROM master_user where id='$id_user'";
 }
 
-
+// #3F3D56 abu
+// #F6EFD3
 ?>
 
 <div class="kt-container  kt-container--fluid  kt-grid__item kt-grid__item--fluid">
     <div class="kt-portlet">
-        <div class="kt-portlet__body kt-portlet__body--fit" style="background-image:url('assets/media/bg/bg-9.jpg');">
+        <div class="kt-portlet__body kt-portlet__body--fit" style="background-color: #3F3D56">
             <div class="kt-grid kt-wizard-v1 kt-wizard-v1--white" id="kt_wizard_v1" data-ktwizard-state="step-first">
                 <div class="kt-grid__item">
 
@@ -33,31 +34,31 @@ if ($_SESSION['level']=='Admin') {
 
 
                             <div id="iconSatu" class="kt-wizard-v1__nav-item" data-ktwizard-type="step">
-                                <div class="kt-wizard-v1__nav-body">
-                                    <div class="kt-wizard-v1__nav-icon">
+                                <div class="kt-wizard-v1__nav-body" >
+                                    <div class="kt-wizard-v1__nav-icon"  style="color: #F6EFD3">
                                         <i class="flaticon-profile-1"></i>
                                     </div>
-                                    <div class="kt-wizard-v1__nav-label">
+                                    <div class="kt-wizard-v1__nav-label"  style="color: #F6EFD3"> 
                                         1. Konfirmasi Data Pasien
                                     </div>
                                 </div>
                             </div>
                             <div id="iconDua" class="kt-wizard-v1__nav-item" data-ktwizard-type="step">
                                 <div class="kt-wizard-v1__nav-body">
-                                    <div class="kt-wizard-v1__nav-icon">
+                                    <div class="kt-wizard-v1__nav-icon"  style="color: #F6EFD3">
                                         <i class="flaticon-list"></i>
                                     </div>
-                                    <div class="kt-wizard-v1__nav-label">
+                                    <div class="kt-wizard-v1__nav-label"  style="color: #F6EFD3">
                                         2. Melakukan Wawancara
                                     </div>
                                 </div>
                             </div>
                             <div id="iconTiga" class="kt-wizard-v1__nav-item" data-ktwizard-type="step">
                                 <div class="kt-wizard-v1__nav-body">
-                                    <div class="kt-wizard-v1__nav-icon">
+                                    <div class="kt-wizard-v1__nav-icon"  style="color: #F6EFD3">
                                         <i class="flaticon-notes"></i>
                                     </div>
-                                    <div class="kt-wizard-v1__nav-label">
+                                    <div class="kt-wizard-v1__nav-label"  style="color: #F6EFD3">
                                         3. Hasil
                                     </div>
                                 </div>
@@ -109,6 +110,29 @@ if ($_SESSION['level']=='Admin') {
 
                     <div class="container" id="dua" style="display: none;">
 
+                            <style type="text/css">
+
+                                .card-2{
+                                    /*border: 2px solid black;*/
+                                    background-color: #278571;
+                                    border-radius: 15px;
+                                    padding: 5%;
+                                     box-shadow: 1px 2px 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+                                }
+                                 .card-3{
+                                    /*border: 2px solid black;*/
+                                    background-color: #7185f5;
+                                    border-radius: 15px;
+                                    padding: 5%;
+                                     box-shadow: 1px 2px 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+                                }
+   
+
+   
+
+        </style>
+
+
 
                         <form id="formKonsul2">
 
@@ -119,80 +143,50 @@ if ($_SESSION['level']=='Admin') {
                                 </h4>
                             </div>
 
-                            <div class="row">
-                                <div class="col-sm-6" id="ya">
-                                    <div class="kt-portlet kt-iconbox kt-iconbox--success kt-iconbox--animate">
-                                        <div class="kt-portlet__body">
+                            <div class="row" style="justify-content: space-around;height: 100px;">
+                                <div class="col-sm-5 card-2" id="ya">
+                                
 
-                                            <div class="kt-iconbox__body">
-
-                                                <!-- <div class="kt-iconbox__icon">
+                                                <div class="kt-iconbox__icon" style="color: white">
                                                     <i class="fa fa-check-circle fa-3x"></i>
-
-                                                </div> -->
-
-                                                <div class="kt-iconbox__desc">
-
-                                                    <h3 class="kt-iconbox__title">
-
-                                                        <a class="kt-link">YA, BETUL</a><br />
-                                                        <img src="page/betul.svg" width="150" height="150" />
-
-                                                    </h3>
-
-                                                    <div class="kt-iconbox__content">
-                                                        <div
-                                                            class="kt-separator kt-separator--border-dashed kt-separator--space-lg">
-                                                        </div>
-
-
-                                                        <!-- <h2>Pilihlah dengan benar</h2> -->
-
-                                                    </div>
 
                                                 </div>
 
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div id="tidak" class="col-sm-6">
-                                    <div class="kt-portlet kt-iconbox kt-iconbox--danger kt-iconbox--animate">
-                                        <div class="kt-portlet__body">
-
-                                            <div class="kt-iconbox__body">
-
-
-                                                <!-- <div class="kt-iconbox__icon">
-                                                    <i class="fa fa-times-circle fa-3x"></i>
-
-                                                </div> -->
-
                                                 <div class="kt-iconbox__desc">
 
-                                                    <h3 class="kt-iconbox__title">
+                                                    <h3 class="kt-iconbox__title" style="color: white">
+
+                                                        <a class="kt-link">YA, BETUL</a><br />
+                                             
+
+                                                    </h3>
+                                                </div>
+                                </div>
+
+                                <div id="tidak" class="col-sm-5 card-3">
+                                   
+                                     
+
+                                                <div class="kt-iconbox__icon"  style="color: white">
+                                                    <i class="fa fa-times-circle fa-3x"></i>
+
+                                                </div>
+
+                                               
+
+                                                    <h3 class="kt-iconbox__title"  style="color: white">
 
 
                                                         <a class="kt-link">TIDAK, SALAH</a><br />
-                                                        <img src="page/salah.svg" width="150" height="150" />
+                                                      
 
                                                     </h3>
 
-                                                    <div class="kt-iconbox__content">
-                                                        <div
-                                                            class="kt-separator kt-separator--border-dashed kt-separator--space-lg">
-                                                        </div>
+                                                   
 
-                                                        <!-- <h2>Pilihlah dengan benar</h2> -->
-
-                                                    </div>
-
-                                                </div>
-
-                                            </div>
-                                        </div>
+                                          
                                     </div>
+                                  
                                 </div>
 
                             </div>
