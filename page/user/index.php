@@ -29,10 +29,10 @@
 										</div>
 									</div>
 								</div>
-								<div class="kt-portlet__body">
+								<div class="kt-portlet__body" style="padding-right: 10%;padding-left: 10%">
 
 									<!--begin: Datatable -->
-									<table class="table table-striped- table-bordered table-hover table-checkable" id="tableUser">
+									<table class="table table-striped table-bordered table-hover table-checkable" id="tableUser" style="width: 500px">
 											   <thead>
 										            <tr>
 										            	<th>

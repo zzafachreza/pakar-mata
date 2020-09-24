@@ -32,26 +32,7 @@
 
 										<div class="kt-portlet__head-wrapper">
 
-											<div class="kt-portlet__head-actions">
-
-													<button type="button" id="btnPilihAll"  class="btn btn-danger btn-icon-sm" >
-
-														<i class="la la-trash"></i> Delete
-
-													</button>
-
-
-												&nbsp;
-
-												<button onclick="AddArtikel()"  class="btn btn-brand btn-elevate btn-icon-sm">
-
-													<i class="la la-plus"></i>
-
-													New Record
-
-												</button>
-
-											</div>
+											
 
 										</div>
 
@@ -62,37 +43,12 @@
 								<div class="kt-portlet__body">
 
 
-
-									<!--begin: Datatable -->
-
-									<table class="table table-striped- table-bordered table-hover table-checkable" id="tableArtikel">
-
-											   <thead>
-
-										             <tr>
-
-										            	<th>
-										            		<label class="kt-checkbox kt-checkbox--single kt-checkbox--all kt-checkbox--solid">
-										            		<input type="checkbox" id="select_all">&nbsp;<span></span>
-										            		</label>
-										            	</th>
-										                <th>Judul</th>
-										                <th>Isi</th>
-										                <th>Tanggal</th>
-										                <th>Jam</th>
-										                <th>Update by</th>
-										                <th></th>
-
-										            </tr>
-										  
-
-										        </thead>
-
-									</table>
-
-
-
-									<!--end: Datatable -->
+									<h3>Nama </h3>
+									<p> Fachreza Maulana</p>
+									<h3>Alamat </h3>
+									<p> Bandung</p>
+									<h3>Telepon </h3>
+									<p> 089867836783</p>
 
 								</div>
 
