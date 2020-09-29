@@ -1,0 +1,69 @@
+ID,pertanyaan,ifyes,ifno,id_gangguan,id_solusi
+2,Apakah Anda merasa mata menonjol ?,21,1,G2,
+21,Apakah Anda merasa pada siang hari penglihatan menurun ?,22,11,G21,
+22,Apakah Anda merasa tidak dapat melihat pada lingkungan yang kurang bercahaya ?,53,12,G22,
+1,Apakah Anda merasa mata nyeri hebat ?,5,11,G1,
+5,Apakah Anda merasa mata merah ?,9,12,G5,
+9,Apakah Anda merasa kelopak mata membengkak ?,18,3,G9,
+18,Apakah Anda merasa demam ?,23,4,G18,
+23,Apakah Anda merasa pergerakan mata terbatas ?,24,35,G23,
+24,Apakah Anda merasa mata tampak mengkilat ?,25,37,G24,
+25,Apakah Anda merasa bola mata membengkak dan tampak berkabut ?,54,14,G25,
+11,Apakah Anda merasa mata sakit ?,19,12,G11,
+19,Apakah Anda merasa menekan kedipan berlebihan ?,26,3,G19,
+26,Apakah Anda merasa sumber cahaya akan berwarna pelangi bila memandang lampu neon ?,27,4,G26,
+27,Apakah Anda merasa penglihatan yang tadinya kabur lama- kelamaan menjadi normal ?,52,35,G27,
+52,Apakah Anda merasa mata membengkak ?,55,37,G52,
+12,Apakah Anda merasa air mata berlebihan ?,56,3,G12,
+3,Apakah Anda merasa penglihatan kabur ?,28,4,G3,
+28,Apakah Anda merasa malam hari kesulitan melihat ?,31,35,G28,
+31,Apakah Anda sering ganti kacamata ?,32,37,G31,
+32,Apakah Anda merasa penglihatan ganda pada salah satu sisi mata ?,33,3,G32,
+33,Apakah Anda merasa lensa mata membengkak ?,57,4,G33,
+4,Apakah Anda merasa peka terhadap cahaya ?,6,35,G4,
+6,Apakah Anda merasa mata berair ?,8,37,G6,
+8,Apakah Anda merasa mata gatal ?,34,14,G8,
+34,Apakah Anda merasa berbentuk keropeng pada kelopak mata ketika bangun pada siang hari ?,58,10,G34,
+35,Apakah Anda merasa penglihatan menurun pada ruang gelap ?,36,37,G35,
+36,Apakah Anda merasa penglihatan menurun pada malam hari ?,50,14,G36,
+50,Apakah Anda merasa sakit kepala ?,59,10,G50,
+37,Apakah Anda merasa keluarnya cairan kotoran dari mata ?,38,14,G37,
+38,Apakah Anda merasa berbaliknya bulu mata ?,39,10,G38,
+39,Apakah Anda merasa pembengkakan kelenjar getah bening didepan telinga ?,41,44,G39,
+41,"Apakah Anda memiliki komplikasi pada,telinga,hidung dan tenggorokan ?",60,13,G41,
+14,Apakah Anda merasa mata meradang ?,42,10,G14,
+42,"Apakah Anda merasa mata mempersempit, perubahan bentuk ?",43,44,G42,
+43,Apakah Anda merasa benjolan pada mata bagian atas atau bawah ?,61,13,G43,
+10,Apakah Anda merasa mata ungu ?,20,44,G10,
+20,Apakah Anda merasa sel batang retina sulit berdaptasi diruang yang remang-remang ?,62,13,G20,
+44,Apakah Anda memiliki gangguan penglihatan pada salah satu mata ?,45,13,G44,
+45,Apakah Anda merasa garis mata lurus terlihat bergelombang ?,46,15,G45,
+46,Apakah Anda merasa mata tidak nyeri ?,63,7,G46,
+13,Apakah Anda merasa mata tegang ?,47,15,G13,
+47,Apakah Anda merasa mata melihat melayang-layang ?,48,7,G47,
+48,Apakah Anda merasa mata melihat kilatan cahaya ?,40,17,G48,
+40,Apakah Anda merasa munculnya garis parutan pada kornea ?,64,68,G40,
+15,Apakah Anda merasa mata kering ?,16,7,G15,
+16,Apakah Anda merasa mata iritasi ?,49,14,G16,
+49,Apakah Anda merasa seperti ada benda asing di mata ?,65,68,G49,
+7,Apakah Anda merasa mata perih ?,29,17,G7,
+29,Apakah Anda merasa siang hari ketajaman mata menurun ?,30,68,G29,
+30,Apakah Anda merasa mata silau akan cahaya ?,66,68,G30,
+17,Apakah Anda merasa mata nyeri bila ditekan ?,51,68,G17,
+51,Apakah Anda memiliki riwayat penyakit menular seksual pada ibu ?,67,68,G51,
+53,Xerophtalmania,0,0,G53,R1
+54,Selulitis Orbitalitas,0,0,G54,R2
+55,Glaukoma,0,0,G55,R3
+56,Dakriosistitis,0,0,G56,R4
+57,Katarak,0,0,G57,R5
+58,Konjungtivitis,0,0,G58,R6
+59,Retinitis Pigmentosa,0,0,G59,R7
+60,Trakoma,0,0,G60,R8
+61,Oveitis,0,0,G61,R9
+62,Hordeolum,0,0,G62,R10
+63,Degenerasi Makula,0,0,G63,R11
+64,Ablasio Retina,0,0,G64,R12
+65,Pterygium,0,0,G65,R13
+66,Miopi,0,0,G66,R14
+67,Oftalmia Neonatorium,0,0,G67,R15
+68,Data Tidak Ditemukan,0,0,G68,0

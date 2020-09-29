@@ -1,53 +1,25 @@
 ID Gejala,Gejala
-G1,Mata nyeri hebat
-G2,Mata menonjol
-G3,Penglihatan kabur
-G4,Peka terhadap cahaya
+G1,Mata menonjol
+G2,Pada siang hari penglihatan menurun
+G3,Tidak dapat melihat pada lingkungan yang kurang bercahaya
+G4,Mata nyeri hebat
 G5,Mata merah
-G6,Mata berair
-G7,Mata perih
-G8,Mata gatal
-G9,Kelopak Mata membengkak
-G10,Mata ungu
+G6,Kelopak Mata membengkak
+G7,Demam
+G8,Pergerakan mata terbatas
+G9,Mata tampak mengkilat
+G10,Bola mata membengkak dan tampak berkabut
 G11,Mata sakit
-G12,Air mata berlebihan
-G13,Mata tegang
-G14,Mata meradang
-G15,Mata kering
-G16,Mata iritasi
-G17,Mata nyeri bila ditekan
-G18,Demam
-G19,Menekan kedipan berlebihan
-G20,Sel batang retina sulit berdaptasi diruang yang remang-remang
-G21,Pada siang hari penglihatan menurun
-G22,Tidak dapat melihat pada lingkungan yang kurang bercahaya
-G23,Pergerakan mata terbatas
-G24,Mata tampak mengkilat
-G25,Bola mata membengkak dan tampak berkabut
-G26,Sumber cahaya akan berwarna pelangi bila memandang lampu neon
-G27,Penglihatan yang tadinya kabur lama- kelamaan menjadi normal
-G28,Malam hari kesulitan melihat
-G29,Siang hari ketajaman mata menurun
-G30,Mata silau akan cahaya
-G31,Sering ganti kacamata
-G32,Penglihatan ganda pada salah satu sisi mata
-G33,Lensa mata membengkak
-G34,Berbentuk keropeng pada kelopak mata ketika bangun pada siang hari
-G35,Penglihatan menurun pada ruang gelap
-G36,Penglihatan menurun pada malam hari
-G37,Keluarnya cairan kotoran dari mata
-G38,Berbaliknya bulu mata
-G39,Pembengkakan kelenjar getah bening didepan telinga
-G40,Munculnya garis parutan pada kornea
-G41,"Komplikasi pada,telinga,hidung dan tenggorokan"
-G42,"Mata mempersempit, perubahan bentuk"
-G43,Benjolan pada mata bagian atas atau bawah
-G44,Gangguan penglihatan pada salah satu mata
-G45,Garis mata lurus terlihat bergelombang
-G46,Mata tidak nyeri
-G47,Mata melihat melayang-layang
-G48,Mata melihat kilatan cahaya
-G49,Seperti ada benda asing di mata
-G50,Sakit kepala
-G51,Riwayat penyakit menular seksual pada ibu
-G52,Mata membengkak
+G12,Menekan kedipan berlebihan
+G13,Sumber cahaya akan berwarna pelangi bila memandang lampu neon
+G14,Penglihatan yang tadinya kabur lama- kelamaan menjadi normal
+G15,Mata membengkak
+G16,Penglihatan kabur
+G17,Malam hari kesulitan melihat
+G18,Sering ganti kacamata
+G19,Penglihatan ganda pada salah satu sisi mata
+G20,Lensa mata membengkak
+G21,Peka terhadap cahaya
+G22,Mata berair
+G23,Mata gatal
+G24,Berbentuk keropeng pada kelopak mata ketika bangun pada siang hari
